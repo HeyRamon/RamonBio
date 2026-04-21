@@ -1,7 +1,7 @@
 # About Me:
 Hi, I'm Ramon Vazquez :)<br>CS student @ UIC exploring Machine learning, Graph Theory, and local CS projects.<br>Always building, learning, and sharing cool stuff!
 
-## Socials:
+## Social Media / Email:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-vazquez-77343b2a1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rvazq@uic.edu) 
 
 # Tech Stack:
